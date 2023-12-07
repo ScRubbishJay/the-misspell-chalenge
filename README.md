@@ -2,6 +2,7 @@
 # The Misspell Challenge
 <!-- endhide -->
 
+This is just to show I know how to do a pull request.
 Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
 
 ## 🔷 How to fix a misspell on a 4Geeks Lesson:  
